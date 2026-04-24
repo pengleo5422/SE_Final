@@ -300,6 +300,58 @@ pytest
 
 ---
 
+## 專案畫面
+
+### 登入頁面
+
+<p align="center">
+  <img src="asset/readme/登入頁面.png" width="700">
+</p>
+
+### 議題列表與詳細頁面
+
+<p align="center">
+  <img src="asset/readme/議題列表頁面.png" width="700">
+</p>
+
+<p align="center">
+  <img src="asset/readme/議題詳細頁面.png" width="700">
+</p>
+
+### 新增、預覽與編輯議題
+
+<p align="center">
+  <img src="asset/readme/新增議題.png" width="700">
+</p>
+
+<p align="center">
+  <img src="asset/readme/預覽議題.png" width="700">
+</p>
+
+<p align="center">
+  <img src="asset/readme/議題編輯頁面.png" width="700">
+</p>
+
+### 議題歷史頁面
+
+<p align="center">
+  <img src="asset/readme/議題歷史頁面.png" width="700">
+</p>
+
+### 管理者頁面
+
+<p align="center">
+  <img src="asset/readme/管理者首頁.png" width="700">
+</p>
+
+<p align="center">
+  <img src="asset/readme/議題審核頁面.png" width="700">
+</p>
+
+<p align="center">
+  <img src="asset/readme/議題審核頁面詳細.png" width="700">
+</p>
+
 ## 作者
 
 GitHub: https://github.com/pengleo5422
